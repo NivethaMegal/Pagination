@@ -1,0 +1,32 @@
+.mobile-card {
+    width: 30%;
+    margin: 20px;
+    display: inline-block;
+    border: 1px solid black;
+    text-align: center;
+    background-color: lightgreen;
+    border-radius: 10px;
+    box-shadow: gray 5px 5px; 
+}
+.mobiles-section{
+    border: 1px solid black;
+    padding:20px;
+}
+.mobiles-section-template{
+    display: none;
+}
+.mobile-card-template {
+    display: none;
+}
+.mobile-heading-align{
+    text-align: center;
+}
+.mobile-heading{
+    display: none;
+}
+.page.button{
+    display: none;
+}
+.dynamic-button{
+    border-radius: 50%;
+}
